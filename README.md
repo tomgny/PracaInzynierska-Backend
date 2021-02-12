@@ -1,1 +1,2 @@
-Część serwerowa pracy inżynierskiej, wykorzystująca framework Spring Boot oraz Spring Data JPA.
+# Back-end pracy inżynierskiej 
+Wykorzystujący framework Spring Boot oraz Spring Data JPA.
